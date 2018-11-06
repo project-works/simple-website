@@ -1,0 +1,22 @@
+{
+  "name": "simple-website",
+  "version": "0.0.1",
+  "description": "Simple website to test CircleCI build-deploy to Firebase",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/project-works/simple-website.git"
+  },
+  "author": "Project Works",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/project-works/simple-website/issues"
+  },
+  "homepage": "https://github.com/project-works/simple-website#readme",
+  "devDependencies": {
+    "firebase-tools": "^6.0.1"
+  }
+}
