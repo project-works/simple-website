@@ -11,7 +11,7 @@ jobs:
           command: npm install
   deploy-job:
     docker:
-      - image: my-image-version-tag
+      - image: circleci/node:8.12
     working_directory: /tmp/my-project
     steps:
       - run:
