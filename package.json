@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/project-works/simple-website/issues"
   },
-  "homepage": "https://github.com/project-works/simple-website#readme"
+  "homepage": "https://github.com/project-works/simple-website#readme",
+  "devDependencies": {
+    "firebase-tools": "^6.0.1"
+  }
 }
